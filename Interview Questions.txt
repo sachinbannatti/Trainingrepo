@@ -1,0 +1,49 @@
+1. What is the TestCase ?
+-TestCase is nothing but it is the group of condtions under which 
+Tester determines the whether the softawre application is working 
+As per the customer Requirements or not.
+
+2. What is the Test Scenario ?
+-Test Scenario is nothing but the detailed documentation of testcases
+that cover end to end functionality of the software application in 
+linear statements.
+
+3. What is the Test Plan ?
+-Test plan is nothing but it is detailed documenta which describes
+software testing areas and activities.
+
+4. What is the Test Data ?
+-Test Data is nothing but it is the data used by the software tetser
+for the tetsting purpose is called Test Data.
+
+5.What is test Strategy ?
+-Test Strategy is nothing but it is high level document which provide 
+outline to the testing technique in SDLC
+
+6.What is the Test Script?
+-The test cases written in programming lanuage is called as test script.
+
+7.Can you explain roles and responsibilities in your project ?
+-My roles and responsibilities in my projects are
+* Understanding the business requirement and identifying the scenario
+* As per the customer requirements write, review and execute the test cases
+* Performing smoke, regression, retesting, functional and integration testing
+* Preparing test summary report
+* When i got bug and that bug is raised ing defect tracking tool Jira
+* Prepring Requirement Tracebility Matrix to achieve minimum in the project
+* Daily attending the scrum meeting
+* Attending planning pocker activity
+* Good analysing burn down chart
+* Clearly understanding the user stories and prepare test cases
+* Understanding the hybrid framework
+* Knowwledge on core java
+Extensively work with maven, testng and TDD and BDD Cucumber framework
+* Developing the property file and reading the content from properties fil
+* Writting the test Script
+* Generating html based reports.
+
+
+
+
+
+
